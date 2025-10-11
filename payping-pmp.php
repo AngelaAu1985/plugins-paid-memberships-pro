@@ -1,12 +1,18 @@
 <?php
-/*
-Plugin Name: PayPing for Paid Memberships Pro
-Version: 1.0.1
-Description: افزونه درگاه پرداخت پی‌پینگ برای Paid Memberships Pro
-Plugin URI: https://www.payping.ir/
-Author: hadihosseini
-Author URI: https://payping.ir/
-*/
+/**
+ * Plugin Name: PayPing PMPro
+ * Plugin URI: https://www.payping.ir/
+ * Description: افزونه درگاه پرداخت پی‌پینگ برای Paid Memberships Pro
+ * Version: 1.1.0
+ * Requires at least: 4.0.0
+ * Requires PHP: 7.3
+ * Tested up to: 6.7.2
+ * Author: PayPing PHP Team
+ * Author URI: https://payping.ir/
+ * Text Domain: payping-pmpro
+ * License: GPLv3 or later
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ */
 
 // Prevent direct access to this file
 if (!defined('ABSPATH')) {
